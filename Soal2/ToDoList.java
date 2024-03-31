@@ -1,3 +1,5 @@
+package Soal2;
+
 import java.util.Scanner;
 
 public class ToDoList {
